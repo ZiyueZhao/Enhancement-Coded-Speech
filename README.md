@@ -2,7 +2,7 @@
 
 Please find here the scripts referring to the paper [Convolutional Neural Networks to Enhance Coded Speech](https://arxiv.org/abs/1806.09411). In this repository we provide the cepstral domain approach with the framework structure III. 
 
-The code was written by Ziyue Zhao and Huijun Liu. 
+The code was written by [Ziyue Zhao](https://ziyuezhao.github.io/) and Huijun Liu. 
 
 ## Introduction
 
